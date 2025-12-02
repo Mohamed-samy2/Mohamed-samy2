@@ -49,7 +49,9 @@
 ----->
 # 🛠️ Tech & Tools
 **Languages:** Python · C++ · Java · SQL · JavaScript · C#
+
 **ML / DL:** PyTorch · TensorFlow · Hugging Face · LangChain · LangGraph · ChromaDB  
+
 **Infra:** Docker · FastAPI · Streamlit · PostgreSQL · Git · GitHub Actions
 
 ---
