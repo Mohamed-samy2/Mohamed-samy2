@@ -3,7 +3,13 @@
 # 👋 Mohamed Samy — AI Engineer
 **AI Engineer • NLP & CV • RAG • LLMs • Production ML**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-samy2&color=00d4ff&style=for-the-badge)](https://github.com/Mohamed-samy2)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-samy2&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Mohamed-samy2?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Mohamed-samy2?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+</p>
+
 
 </div>
 
@@ -35,9 +41,10 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-samy2&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Mohamed-samy2&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-samy2&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 <!--## 🧮 Programming Language Statistics
